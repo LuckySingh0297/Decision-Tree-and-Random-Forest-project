@@ -48,7 +48,7 @@ The dataset contains credit card transaction records.
 
 ## Dataset Source
 [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-Data set is too big so u can donload it from here i can't able to upload it because its size is 143 and github upload only 25mb
+Data set is too big so u can download it from here i can't able to upload it because its size is 143 and github upload only 25mb
 ---
 
 # 📊 Exploratory Data Analysis (EDA)
